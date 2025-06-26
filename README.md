@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
-#### Residente de São José dos Pinhais - PR, trabalho como analista de dados desenvolvendo soluções em T-SQL (SQL Server), e estou migrando para desenvolvimento backend.
+#### Residente de Curitiba - PR, trabalho como analista de dados desenvolvendo soluções em T-SQL (SQL Server), e estou migrando para desenvolvimento backend.
 #### Atualmente cursando Pós graduação em Arquitetura e Engenharia de Dados com IA na XP Educação.
 
 <br/>
