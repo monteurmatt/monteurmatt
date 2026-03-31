@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
-#### Residente de Curitiba - PR, trabalho como analista de dados desenvolvendo soluções em T-SQL (SQL Server), e estou migrando para desenvolvimento backend.
-#### Atualmente cursando Pós graduação em Arquitetura e Engenharia de Dados com IA na XP Educação.
+#### Residente de Curitiba - PR, trabalho como analista de dados sênior desenvolvendo soluções em PL/SQL (Oracle) e T-SQL (SQL Server).
+#### Pós-graduado em Arquitetura e Engenharia de Dados com IA pela Faculdade XP Educação.
 
 <br/>
 
